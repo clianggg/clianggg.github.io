@@ -112,7 +112,7 @@ const NavBar = ({ toggle }) => {
 					</MobileNavIcon>
 					<NavMenu>
 						<NavItem>
-							<ExternalLink href='https://drive.google.com/file/d/1dRW4TA1b2bqbMxNl4OEWN--6epK8NTFQ/view?usp=sharing'>
+							<ExternalLink href='https://drive.google.com/file/d/19KI2LFhsK2lopWYBQjbhl-b-g_cz9hM0/view?usp=sharing'>
 								RESUME
 							</ExternalLink>
 						</NavItem>
